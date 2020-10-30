@@ -1,0 +1,17 @@
+Date,Stretagy,Asset Class,Ticker,Price,Shares,Weight,Relative Weight
+2020/10/22,Low Volatility,Stock,USMV,63.74,100,33.50%,30%
+2020/10/22,Low Volatility,Stock,XLK,113.44,100,5.50%,5%
+2020/10/22,Low Volatility,Bond,TLT,171.57,200,62.10%,60%
+2020/10/22,Low Volatility,Cash,,,,6.21%,5%
+2020/10/22,Dividend,Stock,USMV,63.74,100,33.50%,30%
+2020/10/22,Dividend,Stock,XLK,113.44,100,5.50%,5%
+2020/10/22,Dividend,Bond,TLT,171.57,200,62.10%,60%
+2020/10/22,Dividend,Cash,,,,6.21%,5%
+2020/10/22,General,Stock,USMV,63.74,100,33.50%,30%
+2020/10/22,General,Stock,XLK,113.44,100,5.50%,5%
+2020/10/22,General,Bond,TLT,171.57,200,62.10%,60%
+2020/10/22,General,Cash,,,,6.21%,5%
+2020/10/22,Growth,Stock,USMV,63.74,100,33.50%,30%
+2020/10/22,Growth,Stock,XLK,113.44,100,5.50%,5%
+2020/10/22,Growth,Bond,TLT,171.57,200,62.10%,60%
+2020/10/22,Growth,Cash,,,,6.21%,5%
